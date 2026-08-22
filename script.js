@@ -1,0 +1,9 @@
+rock(){
+    console.log("Rock")
+}
+paper(){
+    cnsole.log("Paper")
+}
+scissors(){
+    console.log("Scissors")
+}
