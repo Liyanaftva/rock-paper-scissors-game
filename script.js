@@ -30,7 +30,8 @@ function rock(){
                 result_text.textContent = "You win"
                 score_player.textContent = Number(score_player.textContent) + 1
             }
-        }, 2000
+            reset_hands()
+        }, 3000
     )
 }
 
@@ -58,7 +59,8 @@ function paper(){
                 result_text.textContent = "You win"
                 score_player.textContent = Number(score_player.textContent) + 1
             }
-        },2000
+            reset_hands()
+        }, 3000
     )
 }
 
@@ -85,7 +87,8 @@ function scissors(){
                 result_text.textContent = "You win"
                 score_player.textContent = Number(score_player.textContent) + 1
             }
-        }, 2000
+            reset_hands()
+        }, 3000
     )
 }
 
@@ -100,5 +103,16 @@ function set_countdown(){
         function(){
             countdown.textContent -= 1
         }, 2000
+    )
+}
+
+function reset_hands(){
+    setTimeout(
+        function(){
+            computer_hand.textContent = "✊"
+            player_hand.textContent = "✊"
+            computer_choice.textContent = "Loading"
+            result_text.textContent = ""
+        }, 1500
     )
 }
