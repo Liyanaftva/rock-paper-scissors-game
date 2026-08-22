@@ -6,9 +6,11 @@ A minimalist, editorial-style Rock Paper Scissors game built with vanilla HTML, 
 
 ## Preview
 
-<img width="1920" height="1080" alt="Screenshot 2026-08-22 203657" src="https://github.com/user-attachments/assets/d7c86ee4-1fc1-4129-9431-58a2220fdb65" />
-<img width="1920" height="1080" alt="Screenshot 2026-08-22 203049" src="https://github.com/user-attachments/assets/16a0fa66-665d-4646-bb1c-08cdb7d3f864" />
-<img width="1920" height="1080" alt="Screenshot 2026-08-22 203032" src="https://github.com/user-attachments/assets/81785210-4cda-44d0-941c-cc2832a0f956" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-22 204002" src="https://github.com/user-attachments/assets/a294524f-6d32-43a5-a9f4-f5c55f5d1f97" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-22 204010" src="https://github.com/user-attachments/assets/fb4e8d68-42a1-44cc-a1e6-12d341fe6b93" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-22 204027" src="https://github.com/user-attachments/assets/6156ebda-d3a3-4409-be0b-2dc44158ed5b" />
+
+
 
 ## Features
 
